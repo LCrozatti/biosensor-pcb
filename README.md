@@ -60,11 +60,3 @@ O repositório foi criado e atualizado com os dados da placa teste.
 ## Referências
 
 [1] S. Aiassa, S. Carrara and D. Demarchi, "Optimized Sampling Rate for Voltammetry-Based Electrochemical Sensing in Wearable and IoT Applications," in IEEE Sensors Letters. doi: 10.1109/LSENS.2019.2918575.
-
-## Instituições envolvidas
-
-[//]: <> (This is also a comment.)
-
-Fundação Araucária  |  UEM       |     CNPq
-:----------:|:----------:|:----------:|
-<img src="http://www.aintec.com.br/wp-content/uploads/2015/02/araucaria.jpg" alt="Araucaria" width="200"/> | <img src="https://marcoadp.github.io/WebSiteDIN/img/logo-uem2.svg" alt="UEM" width="200"/> | <img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/logo_cnpq.svg" alt="CNPq" width="200"/>
