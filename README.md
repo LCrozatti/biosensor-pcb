@@ -34,12 +34,14 @@ O primeiro firmware envolvido foi feito com base no código produzido pelo [Linn
 
 Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-teste/amostragem/eletroquimica.ipynb` contém algumas demonstrações sobre o uso do python em operações de voltametria cíclica e cronoamperometria. O *dataset* utilizado nesse arquivo pode ser acesso no [kaggle](https://ieee-dataport.org/documents/supplementary-material-optimized-sampling-rate-voltammetry-based-electrochemical-sensing).
 
-[<img align="left" alt="imagem1" height="100px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png"/>]()
+[<img align="left" alt="imagem1" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png"/>]()
 
-[<img align="left" alt="imagem2" height="100px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]()
+[<img align="left" alt="imagem2" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]()
 
-[<img align="left" alt="imagem3" height="100px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]()
+[<img align="left" alt="imagem3" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]()
 
+<br />
+<br />
 <br />
 
 ### :dart: Protótipo final 
