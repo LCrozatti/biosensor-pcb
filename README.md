@@ -6,7 +6,7 @@ Desenvolvimento de um circuito impresso com comunicação NFC que realiza voltam
 
 O software Kicad será utilizado para a confecção das placas de circuito impresso, sendo que a primeira PCB confeccionada será para testes do código e ruído envolvido na amostragem. A placa teste em questão está com seus arquivos no diretório `./placa-teste`. A placa teste projetada está ilustrada na figura abaixo:
 
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb1.png" alt="pcb" width="300"/>
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb1.png" alt="pcb" width="100"/>
 
 O primeiro firmware envolvido foi feito com base no código produzido pelo [Linnes Lab](https://github.com/LinnesLab/LMP91000). De início será utilizado um microcontrolador ATmega168PA-MU para o controle do potenciostato.
 
