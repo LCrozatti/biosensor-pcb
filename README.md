@@ -36,9 +36,9 @@ Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-tes
 
 [<img align="left" alt="imagem1" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png"/>]()
 
-[<img align="left" alt="imagem2" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]()
+[<img align="center" alt="imagem2" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]()
 
-[<img align="left" alt="imagem3" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]()
+[<img align="right" alt="imagem3" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]()
 
 <br />
 <br />
