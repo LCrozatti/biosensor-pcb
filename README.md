@@ -36,6 +36,8 @@ Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-tes
 
 ![Image of Yaktocat](https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png)
 
+![Image of Yaktocat](https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem1.png)
+
 ### :dart: Protótipo final 
 
 A placa final terá uma antena controlada pelo *transponder* ST25DV04K, o controle será efetuado pelo microcontrolador STM32L0 e o controle de tensão nos eletrodos será dados através do potenciostato programável LMP91000. O principal estudo nessa fase é a possibilidade de *energy harvesting*, caminhando em um circuito sem alimentação externa.
