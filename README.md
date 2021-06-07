@@ -41,7 +41,7 @@ Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-tes
 
 ### :dart: Protótipo final 
 
-A placa final terá uma antena controlada pelo *transponder* ST25DV04K, o controle será efetuado pelo microcontrolador STM32L0 e o controle de tensão nos eletrodos será dados através do potenciostato programável LMP91000. O principal estudo nessa fase é a possibilidade de *energy harvesting*, caminhando em um circuito sem alimentação externa.
+A placa final terá uma antena controlada pelo *transponder* ST25DV04K, o controle será efetuado pelo microcontrolador STM32L0 e o controle de tensão nos eletrodos será dado através do potenciostato programável LMP91000. O principal estudo nessa fase é a possibilidade de *energy harvesting*, encaminhando para um circuito sem alimentação externa.
 
 ### :iphone: Aplicativo
 
