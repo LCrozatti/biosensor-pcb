@@ -28,6 +28,8 @@ O primeiro firmware envolvido foi feito com base no código produzido pelo [Linn
 
 [<img align="left" alt="Matplotlib" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>](https://numpy.org/)
 
+<br />
+
 ### :test_tube: Análise dos dados 
 
 Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-teste/amostragem/demo.ipynb` contém algumas demonstrações sobre o uso do python em operações de voltametria cíclica e cronoamperometria.
