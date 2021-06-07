@@ -1,6 +1,6 @@
 # biosensor-pcb
 
-Desenvolvimento de um circuito impresso com comunicação NFC que realiza voltametria e cronoamperometria cíclica em eletrodos impressos com aplicações em biossensores amperométricos.
+Desenvolvimento de um circuito impresso com comunicação NFC que realiza voltametria cíclica e cronoamperometria em eletrodos impressos com aplicações em biossensores amperométricos.
 
 ## :books: Metodologia 
 
