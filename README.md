@@ -1,4 +1,4 @@
-# biosensor-pcb
+# :drop_of_blood: biosensor-pcb
 
 Desenvolvimento de um circuito impresso com comunicação NFC que realiza voltametria e cronoamperometria cíclica em eletrodos impressos com aplicações em biossensores amperométricos.
 
@@ -12,7 +12,7 @@ O software Kicad será utilizado para a confecção das placas de circuito impre
 
 O primeiro firmware envolvido foi feito com base no código produzido pelo [Linnes Lab](https://github.com/LinnesLab/LMP91000). De início será utilizado um microcontrolador ATmega168PA-MU para o controle do potenciostato.
 
-### Ferramentas envolvidas
+### :hammer: Ferramentas envolvidas
 
 [<img align="left" alt="Kicad" height="28px" src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png"/>](https://www.kicad.org/)
 
@@ -32,7 +32,11 @@ O primeiro firmware envolvido foi feito com base no código produzido pelo [Linn
 
 ### :test_tube: Análise dos dados 
 
-Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-teste/amostragem/demo.ipynb` contém algumas demonstrações sobre o uso do python em operações de voltametria cíclica e cronoamperometria.
+Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-teste/amostragem/eletroquimica.ipynb` contém algumas demonstrações sobre o uso do python em operações de voltametria cíclica e cronoamperometria. O *dataset* utilizado nesse arquivo pode ser acesso no [kaggle](https://ieee-dataport.org/documents/supplementary-material-optimized-sampling-rate-voltammetry-based-electrochemical-sensing).
+
+<p align="center">
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png" alt="pcb" width="200"/>
+</p>
 
 ### :dart: Protótipo final 
 
@@ -46,7 +50,7 @@ O aplicativo em questão será construído utilizando o *framework* React-Native
 <img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/aplicativo/images/inicio.jpeg" alt="pcb" width="150"/>
 </p>
 
-## Linha do Tempo
+## :hourglass: Linha do Tempo
 
 ### 06/06/2021
 
