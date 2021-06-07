@@ -1,4 +1,4 @@
-# :drop_of_blood: biosensor-pcb
+# biosensor-pcb
 
 Desenvolvimento de um circuito impresso com comunicação NFC que realiza voltametria e cronoamperometria cíclica em eletrodos impressos com aplicações em biossensores amperométricos.
 
@@ -34,9 +34,12 @@ O primeiro firmware envolvido foi feito com base no código produzido pelo [Linn
 
 Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-teste/amostragem/eletroquimica.ipynb` contém algumas demonstrações sobre o uso do python em operações de voltametria cíclica e cronoamperometria. O *dataset* utilizado nesse arquivo pode ser acesso no [kaggle](https://ieee-dataport.org/documents/supplementary-material-optimized-sampling-rate-voltammetry-based-electrochemical-sensing).
 
-<p align="center">
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png" alt="pcb" width="200"/>
-</p>
+[<img align="left" alt="imagem1" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png"/>]()
+
+[<img align="left" alt="imagem2" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]()
+
+[<img align="left" alt="imagem3" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]()
+
 
 ### :dart: Protótipo final 
 
