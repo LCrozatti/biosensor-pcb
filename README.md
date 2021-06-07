@@ -6,7 +6,7 @@ Desenvolvimento de um circuito impresso com comunicação NFC que realiza voltam
 
 O software Kicad será utilizado para a confecção das placas de circuito impresso, sendo que a primeira PCB confeccionada será para testes do código e ruído envolvido na amostragem. A placa teste em questão está com seus arquivos no diretório `./placa-teste`. A placa teste projetada está ilustrada na figura abaixo:
 
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb1.png" alt="pcb" width="100"/>
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb1.png" alt="pcb" width="300"/>
 
 O primeiro firmware envolvido foi feito com base no código produzido pelo [Linnes Lab](https://github.com/LinnesLab/LMP91000). De início será utilizado um microcontrolador ATmega168PA-MU para o controle do potenciostato.
 
@@ -20,7 +20,7 @@ A placa final terá uma antena controlada pelo *transponder* ST25DV04K, o contro
 
 ### :iphone: Aplicativo
 
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/aplicativo/images/inicio.jpeg" alt="pcb" width="300"/>
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/aplicativo/images/inicio.jpeg" alt="pcb" width="100"/>
 
 O aplicativo em questão será construído utilizando o *framework* React-Native, juntamente com a biblioteca [react-native-nfc-manager](https://github.com/whitedogg13/react-native-nfc-manager). O seu início já foi dado com alguns testes de leitura.
 
