@@ -34,13 +34,17 @@ O primeiro firmware envolvido foi feito com base no código produzido pelo [Linn
 
 Os dados serão analisados utilizando a linguagem python, o arquivo `./placa-teste/amostragem/eletroquimica.ipynb` contém algumas demonstrações sobre o uso do python em operações de voltametria cíclica e cronoamperometria. O *dataset* utilizado nesse arquivo pode ser acesso no [kaggle](https://ieee-dataport.org/documents/supplementary-material-optimized-sampling-rate-voltammetry-based-electrochemical-sensing).
 
-[<img align="left" alt="imagem1" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png"/>]
+[<img align="left" alt="imagem1" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png"/>]()
 
-[<img align="left" alt="imagem2" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]
+[<img align="left" alt="imagem2" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem2.png"/>]()
 
-[<img align="left" alt="imagem3" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]
+[<img align="left" alt="imagem3" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem3.png"/>]()
+
+[<img align="left" alt="imagem3" height="150px" src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem4.png"/>]()
 
 <br />
+
+
 
 ### :dart: Protótipo final 
 
@@ -59,6 +63,10 @@ O aplicativo em questão será construído utilizando o *framework* React-Native
 ### 06/06/2021
 
 O repositório foi criado e atualizado com os dados da placa teste.
+
+## Referências
+
+[1] S. Aiassa, S. Carrara and D. Demarchi, "Optimized Sampling Rate for Voltammetry-Based Electrochemical Sensing in Wearable and IoT Applications," in IEEE Sensors Letters. doi: 10.1109/LSENS.2019.2918575.
 
 ## Instituições envolvidas
 
