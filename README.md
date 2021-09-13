@@ -63,7 +63,7 @@ O repositório foi criado e atualizado com os dados da placa teste.
 <img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/placa_1.png" alt="placa-1" width="150"/>
 </p>
 
-A soldagem dos componentes foi concluída e agora alguns testes estão sendo feitos para confirmar o código. Ocorreram alguns problemas no parte da polarização negativa e vou trabalhar agora na variável IntZ para tornar isso possível (67% Vref - quando trabalhamos com o polarização negativa). Portanto, a polarização positiva está funcionando e é possível fazer uma "meia " voltametria cíclica.
+A soldagem dos componentes foi concluída e agora alguns testes estão sendo feitos para confirmar o código. Ocorreram alguns problemas na parte da polarização negativa e vou trabalhar agora na variável IntZ para tornar isso possível (67% Vref - quando trabalhamos com o polarização negativa). Portanto, a polarização positiva está funcionando e é possível fazer uma "meia " voltametria cíclica.
 
 <p align="center">
 <img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/osciloscopio_1.png" alt="osciloscopio_1" width="150"/>
