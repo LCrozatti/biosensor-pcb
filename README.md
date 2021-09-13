@@ -57,6 +57,20 @@ O aplicativo em questão será construído utilizando o *framework* React-Native
 
 O repositório foi criado e atualizado com os dados da placa teste.
 
+### 13/09/2021
+
+<p align="center">
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/aplicativo/images/placa-1.png" alt="pcb" width="150"/>
+</p>
+
+A soldagem dos componentes foi concluída e agora alguns testes estão sendo feitos para confirmar o código. Ocorreram alguns problemas no parte da polarização negativa e vou trabalhar agora na variável IntZ para tornar isso possível (67% Vref - quando trabalhamos com o polarização negativa). Portanto, a polarização positiva está funcionando e é possível fazer uma "meia " voltametria cíclica.
+
+<p align="center">
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/aplicativo/images/osciloscopio_1.png" alt="pcb" width="150"/>
+</p>
+
+
+
 ## Referências
 
 [1] S. Aiassa, S. Carrara and D. Demarchi, "Optimized Sampling Rate for Voltammetry-Based Electrochemical Sensing in Wearable and IoT Applications," in IEEE Sensors Letters. doi: 10.1109/LSENS.2019.2918575.
