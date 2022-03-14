@@ -59,7 +59,7 @@ The repository was created and updated with data from the test board.
 ### 13/09/2021
 
 <p align="center">
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/placa_1.png" alt="placa-1" width="150"/>
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/placa_teste_frente.png" alt="placa_teste_frente" width="150"/>
 </p>
 
 The soldering of the components has been completed and now some tests are being done to confirm the code. There were some problems in the negative polarization part and I will now work on the IntZ variable to make this possible (67% Vref - when we work with negative polarization). So the positive bias is working and it is possible to do a "half" cyclic voltammetry.
@@ -71,10 +71,6 @@ The soldering of the components has been completed and now some tests are being 
 ### 12/10/2021
 
 Another test was made and is possible to see that the potential between WE and RE is sweeping among -490 mV and 490 mV, demonstrating that the board is well functioning (24% of the reference voltage that is 2.048 V = 491,52 mV). Showing that the circuit can perform cyclic voltammetry in Potassium Ferrocyanide.
-
-<p align="center">
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/placa_teste_frente.png" alt="nfc_board" width="150"/>
-</p>
 
 ### 26/01/2022
 
