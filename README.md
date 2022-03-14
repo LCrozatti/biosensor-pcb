@@ -58,14 +58,10 @@ The repository was created and updated with data from the test board.
 
 ### 13/09/2021
 
-<p align="center">
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb_teste_frente.png" alt="placa_teste_frente" width="150"/>
-</p>
-
 The soldering of the components has been completed and now some tests are being done to confirm the code. There were some problems in the negative polarization part and I will now work on the IntZ variable to make this possible (67% Vref - when we work with negative polarization). So the positive bias is working and it is possible to do a "half" cyclic voltammetry.
 
 <p align="center">
-<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/osciloscopio_1.png" alt="osciloscopio_1" width="150"/>
+<img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb_teste_frente.png" alt="placa_teste_frente" width="150"/>
 </p>
 
 ### 12/10/2021
