@@ -4,7 +4,7 @@ Development of a printed circuit with NFC communication that performs cyclic vol
 
 ## :books: Methodology
 
-Kicad software will be used to make the printed circuit boards, and the first PCB made will be for testing the code and noise involved in the sampling. The test board in question has its files in the `./placa-teste` directory. The designed test board is illustrated in the figure below:
+Kicad software will be used to make the printed circuit boards, and the first PCB has the purpose to test the code and noise involved in the sampling. The test board in question has its files in the `./placa-teste` directory. The designed test board is illustrated in the figure below:
 
 <p align="center">
 <img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/pcb1.png" alt="pcb" width="400"/>
