@@ -3,7 +3,7 @@
 
 LMP91000 pStat = LMP91000();
 
-int16_t opVolt = 3300; //milliVolts if working with a 3.3V device
+int16_t opVolt = 2.048; //milliVolts if working with a 3.3V device
 uint8_t resolution = 10; //10-bits
 
 void setup()
@@ -12,9 +12,9 @@ void setup()
   Serial.begin(115200);
 
   pStat.standby();
-  delay(1000); //warm-up time for the gas sensor
+  delay(1000); //warm-up time for the gas sensor --> Nao precisa
   // Inicia a cronoamperometria
-  runAmp(2, 0, 5000, 66, 5000, 250, 5000, 80, 6);
+  runAmp(2, 0, 5000, 400, 5000, 80, 5000, 80, 6);
 }
 
 
@@ -42,7 +42,9 @@ void runAmp(uint8_t user_gain, int16_t pre_stepV, uint32_t quietTime, int16_t v1
   lmp91000.write(LMP91000_TIACN_REG,0b00010100);      // Rload = 10ohm, TIA_Gain = 35kohm
   lmp91000.write(LMP91000_REFCN_REG,0b10110000);      // ExtRef, IntZ = 20%, Inicia neg, 0% bias 
   lmp91000.write(LMP91000_MODECN_REG,0b00000011);     // FET_Short = 0, 3-lead amperometric
-
+  
+  // Para facilitar no plot e análise em python
+  
   //Print column headers
   String current = "";
   if(range == 12) current = "Current(pA)";
@@ -73,7 +75,7 @@ void runAmp(uint8_t user_gain, int16_t pre_stepV, uint32_t quietTime, int16_t v1
     if(voltageArray[i] < 0) pStat.setNegBias();
     else pStat.setPosBias();
 
-    
+    // Obtenção dos dados e print na Serial
     unsigned long startTime = millis();
     pStat.setBias(abs(voltageArray[i]));
     while(millis() - startTime < timeArray[i])
