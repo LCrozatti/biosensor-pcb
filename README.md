@@ -32,7 +32,7 @@ The first firmware involved was made based on code produced by [Linnes Lab](http
 
 ### :test_tube: Data analysis
 
-The data will be analyzed using the Python language, the file `./palca-teste/amostragem/eletroquimica.ipynb` contains some demonstrations on the use of python in cyclic voltammetry and chronoamperometry operations. The dataset used in this file can be accessed through the [IEEE Data Port](https://ieee-dataport.org/documents/supplementary-material-optimized-sampling-rate-voltammetry-based-electrochemical-sensing) [1].
+The data will be analyzed using the Python language, the file `./placa-teste/amostragem/eletroquimica.ipynb` contains some demonstrations on the use of python in cyclic voltammetry and chronoamperometry operations. The dataset used in this file can be accessed through the [IEEE Data Port](https://ieee-dataport.org/documents/supplementary-material-optimized-sampling-rate-voltammetry-based-electrochemical-sensing) [1].
 
 <p align="center">
 <img src="https://github.com/LCrozatti/biosensor-pcb/blob/master/placa-teste/images/amostragem.png" alt="Amostragem"/>
